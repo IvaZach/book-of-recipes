@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/book-of-recipes/static/css/main.17654e45.css",
+    "main.js": "/book-of-recipes/static/js/main.08cd03ab.js",
+    "index.html": "/book-of-recipes/index.html",
+    "main.17654e45.css.map": "/book-of-recipes/static/css/main.17654e45.css.map",
+    "main.08cd03ab.js.map": "/book-of-recipes/static/js/main.08cd03ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17654e45.css",
+    "static/js/main.08cd03ab.js"
+  ]
+}
